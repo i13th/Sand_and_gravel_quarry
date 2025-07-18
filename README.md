@@ -60,4 +60,4 @@ __4. Формулирование вывода по работе.__
 
 ## Ссылка на дашборд:
 
-[Дашборд](https://public.tableau.com/app/profile/roman.ivashov/viz/-sales/Story1)
+[Дашборд](https://public.tableau.com/app/profile/roman.ivashov/viz/-sales_17528373275540/Story1#1)
